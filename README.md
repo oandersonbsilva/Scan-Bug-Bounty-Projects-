@@ -39,9 +39,6 @@
 
 ## Lista Atualizada na íntegra 
 
-> Aqui no  `README` a a lista vai até 30 links, caso você queira ver completo, seguir para o repositório: <a href="https://github.com/oandersonbsilva/Scan-Bug-Bounty-Projects-" target="_blank">`Repositório`</a>.
-
-
 - Php  <a href="https://bugs.php.net/report.php?bug_type=Security" target="_blank">`BugBounty`</a>
 - Perlsec  <a href="https://perldoc.perl.org/perlsec.html#SECURITY-VULNERABILITY-CONTACT-INFORMATION" target="_blank">`BugBounty`</a>
 - Linkedin  <a href="https://engineering.linkedin.com/blog/2015/06/private-bug-bounty-program" target="_blank">`BugBounty`</a>
