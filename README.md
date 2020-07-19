@@ -43,7 +43,7 @@
 - Perlsec  <a href="https://perldoc.perl.org/perlsec.html#SECURITY-VULNERABILITY-CONTACT-INFORMATION" target="_blank">`BugBounty`</a>
 - Linkedin  <a href="https://engineering.linkedin.com/blog/2015/06/private-bug-bounty-program" target="_blank">`BugBounty`</a>
 - Paytm  <a href="https://bugbounty.paytm.com/" target="_blank">`BugBounty`</a>
-- Hackerone - PayPal  <a href="https://hackerone.com/paypal?type=team" target="_blank">`BugBounty`</a>
+- Hackerone - PayPal  <a href="https://hackerone.com/paypal?type=team" target="_blank">`BugBounty`</a> Recompensas média US **$ 1k - $2k**
 - Avast  <a href="https://www.avast.com/bug-bounty" target="_blank">`BugBounty`</a>
 - Avast  <a href="https://www.avast.com/bug-bounty" target="_blank">`BugBounty`</a>
 - Starbucks  <a href="https://www.starbucks.com/whitehat" target="_blank">`BugBounty`</a>
