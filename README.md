@@ -37,9 +37,6 @@
 
 - Lista completa das Empresas no Repo.  <a href="https://github.com/oandersonbsilva/Scan-Bug-Bounty-Projects-" target="_blank">`confira`</a>.
 
-***INSERT ANOTHER GRAPHIC HERE***
----
-
 ## Lista Atualizada na íntegra 
 
 > Aqui no  `README` a a lista vai até 30 links, caso você queira ver completo, seguir para o repositório: <a href="https://github.com/oandersonbsilva/Scan-Bug-Bounty-Projects-" target="_blank">`Repositório`</a>.
