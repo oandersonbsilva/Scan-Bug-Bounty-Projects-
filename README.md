@@ -45,7 +45,6 @@
 - Paytm  <a href="https://bugbounty.paytm.com/" target="_blank">`BugBounty`</a>
 - Hackerone - PayPal  <a href="https://hackerone.com/paypal?type=team" target="_blank">`BugBounty`</a> Recompensas média US **$ 1k - $2k**
 - Avast  <a href="https://www.avast.com/bug-bounty" target="_blank">`BugBounty`</a>
-- Avast  <a href="https://www.avast.com/bug-bounty" target="_blank">`BugBounty`</a>
 - Starbucks  <a href="https://www.starbucks.com/whitehat" target="_blank">`BugBounty`</a>
 - Apache  <a href="https://www.apache.org/security/" target="_blank">`BugBounty`</a>
 - Vimeo  <a href="https://vimeo.com/about/security" target="_blank">`BugBounty`</a>
