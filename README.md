@@ -62,8 +62,8 @@
 - Github  <a href="https://bounty.github.com/" target="_blank">`BugBounty`</a>
 - hackerone - Verizon Media <a href="https://hackerone.com/verizonmedia?type=team" target="_blank">`BugBounty`</a>
 - hackerone - WordPress <a href="https://hackerone.com/wordpress?type=team" target="_blank">`BugBounty`</a>
-- hackerone - Uber <a href="https://hackerone.com/uber?type=team" target="_blank">`BugBounty`</a>
-- hackerone - Tor Project <a href="https://hackerone.com/torproject?type=team" target="_blank">`BugBounty`</a>
+- hackerone - Uber <a href="https://hackerone.com/uber?type=team" target="_blank">`BugBounty`</a> Recompensas média **$ 500 - $ 750**
+- hackerone - Tor Project <a href="https://hackerone.com/torproject?type=team" target="_blank">`BugBounty`</a> Recompensa média **$ 200**
 - hackerone <a href="https://hackerone.com/hacktivity?order_direction=DESC&order_field=popular&filter=type%3Aall" target="_blank">`BugBounty`</a>
 
 
