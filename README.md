@@ -53,7 +53,7 @@
 - Quora  <a href="https://www.quora.com/q/quoraengineering/Security-Bug-Bounty-Program" target="_blank">`BugBounty`</a>
 - Openssl  <a href="https://www.openssl.org/news/vulnerabilities.html" target="_blank">`BugBounty`</a>
 - Snapchat  <a href="https://support.snapchat.com/en-US/i-need-help" target="_blank">`BugBounty`</a>
-- Bugcrowd - Netflix  <a href="https://bugcrowd.com/netflix" target="_blank">`BugBounty`</a>
+- Bugcrowd - Netflix  <a href="https://bugcrowd.com/netflix" target="_blank">`BugBounty`</a>  **$ 20.000** por vulnerabilidade 
 - Apple  <a href="https://support.apple.com/en-au/HT201220" target="_blank">`BugBounty`</a>
 - Mozilla  <a href="https://www.mozilla.org/en-US/security/bug-bounty/" target="_blank">`BugBounty`</a>
 - Microsoft  <a href="https://www.microsoft.com/en-us/msrc/bounty?rtc=1" target="_blank">`BugBounty`</a>
