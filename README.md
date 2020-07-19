@@ -60,7 +60,7 @@
 - Intel  <a href="https://www.intel.com/content/www/us/en/security-center/bug-bounty-program.html" target="_blank">`BugBounty`</a>
 - Hp  <a href="https://www8.hp.com/br/pt/solutions/business-solutions/printingsolutions/devicesecurity.html?jumpid=va_anftp8jwqd" target="_blank">`BugBounty`</a>
 - Github  <a href="https://bounty.github.com/" target="_blank">`BugBounty`</a>
-- hackerone - Verizon Media <a href="https://hackerone.com/verizonmedia?type=team" target="_blank">`BugBounty`</a>
+- hackerone - Verizon Media <a href="https://hackerone.com/verizonmedia?type=team" target="_blank">`BugBounty`</a> Recompensas média **$ 400 - $ 500**
 - hackerone - WordPress <a href="https://hackerone.com/wordpress?type=team" target="_blank">`BugBounty`</a>
 - hackerone - Uber <a href="https://hackerone.com/uber?type=team" target="_blank">`BugBounty`</a> Recompensas média **$ 500 - $ 750**
 - hackerone - Tor Project <a href="https://hackerone.com/torproject?type=team" target="_blank">`BugBounty`</a> Recompensa média **$ 200**
