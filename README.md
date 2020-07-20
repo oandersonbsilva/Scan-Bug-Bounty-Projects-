@@ -12,6 +12,7 @@
 
 **Empresas Listadas Atualmente**
 
+- Files
 - Php
 - Perlsec
 - Linkedin
@@ -39,6 +40,9 @@
 
 ## Lista Atualizada na íntegra 
 
+
+- Bugcrowd - Tesla <a href="https://bugcrowd.com/tesla" target="_blank">`BugBounty`</a> US **$ 100 - US $ 15.000** por vulnerabilidade 
+- Bugcrowd - Files <a href="https://bugcrowd.com/files" target="_blank">`BugBounty`</a> US **$ 100 - US $ 10.000** por vulnerabilidade até US **$ 10.000** Recompensa máxima
 - Php  <a href="https://bugs.php.net/report.php?bug_type=Security" target="_blank">`BugBounty`</a>
 - Perlsec  <a href="https://perldoc.perl.org/perlsec.html#SECURITY-VULNERABILITY-CONTACT-INFORMATION" target="_blank">`BugBounty`</a>
 - Linkedin  <a href="https://engineering.linkedin.com/blog/2015/06/private-bug-bounty-program" target="_blank">`BugBounty`</a>
