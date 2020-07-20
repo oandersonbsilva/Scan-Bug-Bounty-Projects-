@@ -12,6 +12,9 @@
 
 **Empresas Listadas Atualmente**
 
+- Indeed 
+- Viator
+- Tesla
 - Files
 - Php
 - Perlsec
@@ -41,6 +44,8 @@
 ## Lista Atualizada na íntegra 
 
 
+- Bugcrowd - Indeed  <a href="https://bugcrowd.com/indeed" target="_blank">`BugBounty`</a> US **$ 10.000** por vulnerabilidade 
+- Bugcrowd - Viator <a href="https://bugcrowd.com/viator" target="_blank">`BugBounty`</a> US **$ 200 - US $ 4.500** por vulnerabilidade
 - Bugcrowd - Tesla <a href="https://bugcrowd.com/tesla" target="_blank">`BugBounty`</a> US **$ 100 - US $ 15.000** por vulnerabilidade 
 - Bugcrowd - Files <a href="https://bugcrowd.com/files" target="_blank">`BugBounty`</a> US **$ 100 - US $ 10.000** por vulnerabilidade até US **$ 10.000** Recompensa máxima
 - Php  <a href="https://bugs.php.net/report.php?bug_type=Security" target="_blank">`BugBounty`</a>
