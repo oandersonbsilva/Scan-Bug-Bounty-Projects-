@@ -12,6 +12,8 @@
 
 **Empresas Listadas Atualmente**
 
+
+- Cloudinary
 - Jumbo Privacy
 - Upwork
 - Indeed 
@@ -46,7 +48,7 @@
 ## Lista Atualizada na íntegra 
 
 
-
+- Bugcrowd -  Cloudinary  <a href="https://bugcrowd.com/cloudinary" target="_blank">`BugBounty`</a> **$ 2.500** por vulnerabilidade  Até **$ 5.000** em recompensa máxima 
 - Bugcrowd - Jumbo Privacy <a href="https://bugcrowd.com/jumboprivacy" target="_blank">`BugBounty`</a> US **$ 200 - US $ 4.500** por vulnerabilidade até **US $ 20.000** Recompensa máxima  
 - Bugcrowd - Upwork  <a href="https://bugcrowd.com/upwork" target="_blank">`BugBounty`</a> US **$ 120 - US $ 5.000** por vulnerabilidade até **US $ 10.000** Recompensa máxima   
 - Bugcrowd - Indeed  <a href="https://bugcrowd.com/indeed" target="_blank">`BugBounty`</a> US **$ 10.000** por vulnerabilidade 
