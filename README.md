@@ -12,6 +12,8 @@
 
 **Empresas Listadas Atualmente**
 
+
+- Upwork
 - Indeed 
 - Viator
 - Tesla
@@ -44,6 +46,7 @@
 ## Lista Atualizada na íntegra 
 
 
+- Bugcrowd - Upwork  <a href="https://bugcrowd.com/upwork" target="_blank">`BugBounty`</a> US **$ 120 - US $ 5.000** por vulnerabilidade até **US $ 10.000** Recompensa máxima   
 - Bugcrowd - Indeed  <a href="https://bugcrowd.com/indeed" target="_blank">`BugBounty`</a> US **$ 10.000** por vulnerabilidade 
 - Bugcrowd - Viator <a href="https://bugcrowd.com/viator" target="_blank">`BugBounty`</a> US **$ 200 - US $ 4.500** por vulnerabilidade
 - Bugcrowd - Tesla <a href="https://bugcrowd.com/tesla" target="_blank">`BugBounty`</a> US **$ 100 - US $ 15.000** por vulnerabilidade 
