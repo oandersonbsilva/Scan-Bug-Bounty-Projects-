@@ -12,6 +12,7 @@
 
 **Empresas Listadas Atualmente**
 
+- Cybrary
 - Arkose Labs
 - Cloudinary
 - Jumbo Privacy
@@ -47,7 +48,7 @@
 
 ## Lista Atualizada na íntegra 
 
-
+- Bugcrowd -  Cybrary  <a href="https://bugcrowd.com/cybrary" target="_blank">`BugBounty`</a> 
 - Bugcrowd -  Arkose Labs <a href="https://bugcrowd.com/arkose-labs" target="_blank">`BugBounty`</a> US **$ 300** - US **$ 5.600** por vulnerabilidade 
 - Bugcrowd -  Cloudinary  <a href="https://bugcrowd.com/cloudinary" target="_blank">`BugBounty`</a> **$ 2.500** por vulnerabilidade  Até **$ 5.000** em recompensa máxima 
 - Bugcrowd - Jumbo Privacy <a href="https://bugcrowd.com/jumboprivacy" target="_blank">`BugBounty`</a> US **$ 200 - US $ 4.500** por vulnerabilidade até **US $ 20.000** Recompensa máxima de Porto seguro parcial 
