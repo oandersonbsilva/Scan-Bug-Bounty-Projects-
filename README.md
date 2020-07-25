@@ -12,6 +12,7 @@
 
 **Empresas Listadas Atualmente**
 
+- ExpressVPN
 - Cybrary
 - Arkose Labs
 - Cloudinary
@@ -48,6 +49,7 @@
 
 ## Lista Atualizada na íntegra 
 
+- Bugcrowd -  ExpressVPN   <a href="https://bugcrowd.com/expressvpn" target="_blank">`BugBounty`</a>  US **$ 150** - US **$ 2.500** por vulnerabilidade 
 - Bugcrowd -  Cybrary  <a href="https://bugcrowd.com/cybrary" target="_blank">`BugBounty`</a> 
 - Bugcrowd -  Arkose Labs <a href="https://bugcrowd.com/arkose-labs" target="_blank">`BugBounty`</a> US **$ 300** - US **$ 5.600** por vulnerabilidade 
 - Bugcrowd -  Cloudinary  <a href="https://bugcrowd.com/cloudinary" target="_blank">`BugBounty`</a> **$ 2.500** por vulnerabilidade  Até **$ 5.000** em recompensa máxima 
