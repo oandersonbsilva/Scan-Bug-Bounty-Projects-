@@ -12,6 +12,7 @@
 
 **Empresas Listadas Atualmente**
 
+- Unilever
 - ExpressVPN
 - Cybrary
 - Arkose Labs
@@ -49,6 +50,8 @@
 
 ## Lista Atualizada na íntegra 
 
+
+- Bugcrowd -  Unilever   <a href="https://bugcrowd.com/unilever-vdp" target="_blank">`BugBounty`</a>   
 - Bugcrowd -  ExpressVPN   <a href="https://bugcrowd.com/expressvpn" target="_blank">`BugBounty`</a>  US **$ 150** - US **$ 2.500** por vulnerabilidade 
 - Bugcrowd -  Cybrary  <a href="https://bugcrowd.com/cybrary" target="_blank">`BugBounty`</a> 
 - Bugcrowd -  Arkose Labs <a href="https://bugcrowd.com/arkose-labs" target="_blank">`BugBounty`</a> US **$ 300** - US **$ 5.600** por vulnerabilidade 
