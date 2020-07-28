@@ -12,6 +12,7 @@
 
 **Empresas Listadas Atualmente**
 
+- Socrata
 - Centrify
 - Unilever
 - ExpressVPN
@@ -51,6 +52,8 @@
 
 ## Lista Atualizada na íntegra 
 
+
+- Bugcrowd -  Socrata    <a href="https://bugcrowd.com/socrata" target="_blank">`BugBounty`</a> US **$ 150** - US **$ 2.500** por vulnerabilidade 
 - Bugcrowd -  Centrify   <a href="https://bugcrowd.com/centrify" target="_blank">`BugBounty`</a>  US **$ 100** - US **$ 3.000** por vulnerabilidade 
 - Bugcrowd -  Unilever   <a href="https://bugcrowd.com/unilever-vdp" target="_blank">`BugBounty`</a>   
 - Bugcrowd -  ExpressVPN   <a href="https://bugcrowd.com/expressvpn" target="_blank">`BugBounty`</a>  US **$ 150** - US **$ 2.500** por vulnerabilidade 
