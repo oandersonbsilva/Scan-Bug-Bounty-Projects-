@@ -12,6 +12,7 @@
 
 **Empresas Listadas Atualmente**
 
+- Arlo Cash Rewards 
 - Socrata
 - Centrify
 - Unilever
@@ -53,6 +54,7 @@
 ## Lista Atualizada na íntegra 
 
 
+- Bugcrowd - Arlo Cash Rewards  <a href="https://bugcrowd.com/arlo" target="_blank">`BugBounty`</a> US **$ 1.200** por vulnerabilidade  - **até $ 15.000** Recompensa máxima
 - Bugcrowd -  Socrata    <a href="https://bugcrowd.com/socrata" target="_blank">`BugBounty`</a> US **$ 150** - US **$ 2.500** por vulnerabilidade 
 - Bugcrowd -  Centrify   <a href="https://bugcrowd.com/centrify" target="_blank">`BugBounty`</a>  US **$ 100** - US **$ 3.000** por vulnerabilidade 
 - Bugcrowd -  Unilever   <a href="https://bugcrowd.com/unilever-vdp" target="_blank">`BugBounty`</a>   
